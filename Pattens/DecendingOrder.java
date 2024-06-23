@@ -1,3 +1,5 @@
+package Pattens;
+
 import java.util.Scanner;
 
 public class DecendingOrder {

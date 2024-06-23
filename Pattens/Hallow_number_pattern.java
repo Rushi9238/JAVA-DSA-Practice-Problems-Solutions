@@ -1,3 +1,5 @@
+package Pattens;
+
 public class Hallow_number_pattern {
     public static void main(String[] args) {
         int num=4;

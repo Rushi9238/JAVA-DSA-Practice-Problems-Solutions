@@ -1,3 +1,5 @@
+package Pattens;
+
 public class Reverse_Pyramid_Star {
     public static void main(String[] args) {
         int num=5;

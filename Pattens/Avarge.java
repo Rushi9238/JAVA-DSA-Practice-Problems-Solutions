@@ -1,3 +1,5 @@
+package Pattens;
+
 import java.util.*;
 public class Avarge{
     public static void main(String[] args) {

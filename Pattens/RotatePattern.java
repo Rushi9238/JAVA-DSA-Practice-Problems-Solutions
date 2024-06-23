@@ -1,3 +1,5 @@
+package Pattens;
+
 public class RotatePattern {
     public static void main(String[] args) {
         int num=3;
